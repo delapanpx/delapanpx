@@ -1,6 +1,7 @@
 ---
 title: Megapiksel Bukan Segalanya
 updated: 2016-08-10
+excerpt: "Masih berpikir kalau kualitas foto smartphone kamu kurang bagus?"
 ---
 
 > Masih berpikir kalau kualitas foto smartphone kamu kurang bagus?
