@@ -1,9 +1,11 @@
 ---
 title: Gerbong Khusus Wanita
 updated: 2017-02-05
+image: /assets/post/gerbong-wanita.jpg
+excerpt: "Kalau ada yang bilang wanita itu berbahaya, itu hanyalah dongeng belaka, katanya, yang benar itu Prialah yang berbahaya."
 ---
 
-![Gerbong Wanita](..\assets\post\gerbong-wanita.jpg)
+![Gerbong Wanita](/assets/post/gerbong-wanita.jpg)
 
 Kalau ada yang bilang wanita itu berbahaya, itu hanyalah dongeng belaka, katanya, yang benar itu Prialah yang berbahaya. Makanya kenapa dibuat gerbong khusus untuk wanita di KRL. Tujuannya untuk menyelamatkan wanita dari keganasan nafsu pria.
 
