@@ -121,8 +121,8 @@ iframe {
 }
 ul,
 ol {
-  margin: 40px 0;
-  padding-left: 50px;
+  margin: 30px 0;
+  padding-left: 30px;
   li {
     word-wrap: break-word;
   }
@@ -207,9 +207,18 @@ article {
     margin: 0 auto;
   }
   hr {
+    display: block;
     border: 0;
-    border-bottom: 1px solid #000;
-    margin: 30px 0;
+    text-align: center;
+    overflow: visible;
+  }
+  hr:before{
+    content: '...';
+    display: inline-block;
+    margin-left: .6em;
+    color: rgba(0,0,0,.68);
+    position: relative;
+    letter-spacing: 0.2rem;
   }
   p {
     font-size: 15px;
