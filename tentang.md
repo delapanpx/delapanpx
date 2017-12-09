@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Tentang
+excerpt: "Blog ini khusus saya buat untuk melampiaskan hasrat menulis opini saya mengenai apapun untuk saya bagikan kepada orang-orang."
 ---
 
 Nama saya Jaka. 
