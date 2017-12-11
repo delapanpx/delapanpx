@@ -127,13 +127,30 @@ ___
 
 ## Media
 
-### YouTube Embedded Iframe
+### Video Embedded Iframe
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n1a7o44WxNo" frameborder="0" allowfullscreen></iframe>
+- Youtube
+```
+{% include helpers/video.html url="https://www.youtube.com/embed/fy7q0klb0yI" width="560" height="315" %}
+```
+
+- Vimeo
+```
+{% include helpers/video.html url="https://player.vimeo.com/video/244683457" width="560" height="315" %}
+```
 
 ### Image
 
-![Minion](http://octodex.github.com/images/minion.png)
+```
+{% include image.html name="IMAGE FILE" caption="CAPTION" %}
+```
+
+## Credit
+- [Easily install Jekyll on Windows with 3 command prompt entries and Chocolatey](https://davidburela.wordpress.com/2015/11/28/easily-install-jekyll-on-windows-with-3-command-prompt-entries-and-chocolatey/)
+- [How to make your Jekyll site show up on social](http://aramzs.github.io/jekyll/social-media/2015/11/11/be-social-with-jekyll.html)
+- [Including And Managing Images in Jekyll](https://eduardoboucas.com/blog/2014/12/07/including-and-managing-images-in-jekyll.html)
+- [Dynamic navigation for Jekyll](https://codegaze.github.io/2015/08/08/how-to-create-a-dynamic-navigation-menu-in-jekyll/)
+- [Creating responsive Video Embeds in Jekyll](https://eduardoboucas.com/blog/2016/12/21/responsive-video-embeds-jekyll.html)
 
 [^1]: Footnote number one yeah baby! Long sentence test of footnote to see how the words are wrapping between each other. Might overflowww!
 [^2]: A footnote you can link to - [click here!](#)

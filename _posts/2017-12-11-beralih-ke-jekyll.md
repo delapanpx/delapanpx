@@ -22,11 +22,14 @@ Pada template The Plain ini, sayangnya belum diatur metanya sedemikina rupa sehi
 
 Saya mengubah lebar pada layout post yang tadinya 500px menjadi 600px, sama seperti lebar maksimal foto-foto yang saya upload di github ini. Selain itu saya juga mengganti tampilan separator atau tag hr menjadi seperti mirip medium. Entah kenapa saya suka sekali sama separator yang ada di medium.
 
-Karena pada template ini saya tidak bisa menambahkan caption gambar, maka saya melakukan sedikit pengaturan, saya menggunakan tag include dan menyiapkan baris kode yang memudahkan saya memuat caption gambar, untuk lebih jelasnya bisa [membaca artikel ini](https://eduardoboucas.com/blog/2014/12/07/including-and-managing-images-in-jekyll.html). Dan juga karena pada template ini tidak ada pengaturan menampilkan menu navigasi, maka saya sedikit menambahkan pengaturan seperti yang dijelaskan pada [artikel ini](https://codegaze.github.io/2015/08/08/how-to-create-a-dynamic-navigation-menu-in-jekyll/).
+Karena pada template ini saya tidak bisa menambahkan caption gambar, maka saya melakukan sedikit pengaturan, saya menggunakan tag include dan menyiapkan baris kode yang memudahkan saya memuat caption gambar, untuk lebih jelasnya bisa [membaca artikel ini](https://eduardoboucas.com/blog/2014/12/07/including-and-managing-images-in-jekyll.html). Dan juga karena pada template ini tidak ada pengaturan menampilkan menu navigasi, maka saya sedikit menambahkan pengaturan seperti yang dijelaskan pada [artikel ini](https://codegaze.github.io/2015/08/08/how-to-create-a-dynamic-navigation-menu-in-jekyll/). Untuk mengatasi embed video dari streaming seperti youtube dan vimeo supaya hasilnya responsif, maka saya mengikuti sesuai yang ada di [artikel ini](https://eduardoboucas.com/blog/2016/12/21/responsive-video-embeds-jekyll.html).  
 
 ### Credit
 - [Easily install Jekyll on Windows with 3 command prompt entries and Chocolatey](https://davidburela.wordpress.com/2015/11/28/easily-install-jekyll-on-windows-with-3-command-prompt-entries-and-chocolatey/)
 - [How to make your Jekyll site show up on social](http://aramzs.github.io/jekyll/social-media/2015/11/11/be-social-with-jekyll.html)
 - [Including And Managing Images in Jekyll](https://eduardoboucas.com/blog/2014/12/07/including-and-managing-images-in-jekyll.html)
 - [Dynamic navigation for Jekyll](https://codegaze.github.io/2015/08/08/how-to-create-a-dynamic-navigation-menu-in-jekyll/)
+- [Creating responsive Video Embeds in Jekyll](https://eduardoboucas.com/blog/2016/12/21/responsive-video-embeds-jekyll.html)
+
+
 
