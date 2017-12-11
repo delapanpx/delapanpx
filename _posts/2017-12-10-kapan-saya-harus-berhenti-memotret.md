@@ -1,7 +1,7 @@
 ---
 title: Kapan Saya Harus Berhenti Memotret
 updated: 2017-12-10
-excerpt: "Semenjak belajar street photography, saya tidak ada alasan lagi untuk tidak memotret serius ketika sedang tidak memiliki DSLR. Semenjak itu pula saya sulit untuk menjawab pertanyaan kapan saya harus berhenti memotret."
+excerpt: "Semenjak belajar street photography, saya tidak ada alasan lagi untuk tidak memotret serius ketika sedang tidak memiliki DSLR."
 ---
 
 Suatu hari, saya pernah mendapatkan pertanyaan dari seorang teman. Dia menanyakan apakah saat itu saya masih senang memotret. Mungkin dia menanyakan hal seperti itu karena terlihat saya sedang sibuk bekerja, atau sibuk mencari pekerjaan.
