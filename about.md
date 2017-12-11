@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tentang
+title: About
 excerpt: "Blog ini khusus saya buat untuk melampiaskan hasrat menulis opini saya mengenai apapun untuk saya bagikan kepada orang-orang."
 ---
 
