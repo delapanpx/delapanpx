@@ -1,9 +1,12 @@
 <div class="page-navigation">
 	{% if page.next.url %}
     <a class="next" href="{{ page.next.url | prepend: site.baseurl | prepend: site.url }}" title="NEXT: {{page.next.title}}">&lt;&lt;</a>
-  {% endif %}
-		{% for link in site.data.nav %}
 
+    <span> &middot; </span>
+  {% endif %}
+  		<a class="home" href="{{ site.baseurl | prepend: site.url }}" title="Back to Homepage">Home</a>
+
+		{% for link in site.data.nav %}
 		<span> &middot; </span>
 
 		<a class="home" href="{{ link.url }}">{{ link.title }}</a>
