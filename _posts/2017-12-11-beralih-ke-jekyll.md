@@ -1,12 +1,12 @@
 ---
 title: Beralih ke Jekyll
 updated: 2017-12-11
-excerpt: "Setelah menggunakan blogpsot, entah mengapa saya kangen banget sama Jekyll"
+excerpt: "Setelah menggunakan blogspot, entah mengapa saya kangen banget sama Jekyll"
 ---
 
 Sudah cukup banyak platform untuk ngeblog yang saya cobain, mulai dari [wordpress.com](https://wordpress.com) (subdomain wordpress, free), kemudian pindah ke [blogspot](https://blogger.com), lalu kemudian pindah ke [tumblr](https://tumblr.com), kemudian sempat nyaman ngeblog di [medium](https://medium.com), lalu sempet pindah ke [postach](https://postach.io), terus hosting sendiri [wordpress](https://wordpress.org), lalu kemudian nyobain web statis seperti [Jekyll](https://jekyllrb.com/) dan [Grav](https://getgrav.org/). Kemudian terakhir saya kembali menggunakan Blogspot cukup lama.
 
-Setelah menggunakan blogpsot, entah mengapa saya kangen banget sama Jekyll, web statis yang ternyata banyak banget yang pake, walaupun rata-rata penggunanya adalah programmer. Perbedaan dengan Grav adalah jekyll menurut saya lebih mudah dikostumisasi, dan juga minim error, maksudnya, ketika saya pake Grav CMS terus otak-atik tema dan plugin, entah kenapa tau-tau error, dan saya engga tau sama sekali letak kesalahannya.
+Setelah menggunakan blogspot, entah mengapa saya kangen banget sama Jekyll, web statis yang ternyata banyak banget yang pake, walaupun rata-rata penggunanya adalah programmer. Perbedaan dengan Grav adalah jekyll menurut saya lebih mudah dikostumisasi, dan juga minim error, maksudnya, ketika saya pake Grav CMS terus otak-atik tema dan plugin, entah kenapa tau-tau error, dan saya engga tau sama sekali letak kesalahannya.
 
 Pada akhir 2017 ini saya kembali lagi membuka artikel-artikel tentang Jekyll ini. Kemudian saya bertekad untuk memindahkan postingan-postingan saya di [Blogspot](https://delapanpx.blogspot.co.id) ke Jekyll ini. Selain karena saya lebih nyaman menggunakan Jekyll, juga karena dalam rangka branding. Kalau Delapan Megapiksel adalah web khusus fotografi dan portofolio fotografi saya, maka Delapan Piksel ini adalah blog saya pribadi, isinya bener-bener engga khusus, yang pasti isinya adalah opini pribadi saya,
 
