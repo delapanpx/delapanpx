@@ -117,12 +117,12 @@ ___
 
 - Youtube
 ```
-{% include helpers/video.html url="https://www.youtube.com/embed/**unique_url**" width="560" height="315" %}
+{% include helpers/video.html url="https://www.youtube.com/embed/UNIQUE_CODE" width="560" height="315" %}
 ```
 
 - Vimeo
 ```
-{% include helpers/video.html url="https://player.vimeo.com/video/**unique_url***" width="560" height="315" %}
+{% include helpers/video.html url="https://player.vimeo.com/video/UNIQUE_CODE" width="560" height="315" %}
 ```
 
 ### Image
