@@ -5,7 +5,7 @@ image: /assets/posts/2017-07-27-saya-hanyalah-penikmat-kopi-murah/kopi.jpg
 excerpt: "Ketika saya lebih memilih ngopi kopi sachetan yang tergolong kopi murahan, kerabat dan kenalan saya malah menilai saya adalah penikmat kopi sejati. "
 ---
 
-{% include image name="kopi.jpg" caption="Minum kopi murahan" %}
+{% include image.html name="kopi.jpg" caption="Minum kopi murahan" %}
 
 Ketika saya lebih memilih ngopi kopi sachetan yang tergolong kopi murahan, kerabat dan kenalan saya malah menilai saya adalah penikmat kopi sejati. Jadi kalau ada pembahasan kopi mana yang enak, atau cara penyajian kopi yang enak, saya suka heran kok saya diajak supaya ikut obrolan mereka. Akhirnya dengan sangat rendah hati saya cukup bilang, saya cuman paham kopi siap saji.
 

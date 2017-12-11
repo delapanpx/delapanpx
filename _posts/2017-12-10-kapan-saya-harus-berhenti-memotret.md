@@ -25,3 +25,5 @@ Buat orang awam, foto-foto *street photographer* pada awalnya sulit dimengerti, 
 Namun semakin mendalami apa itu SP, saya mulai mengagumi karya-karya *street photographer*. Salah satu fotografer yang sangat saya kagumi adalah [Daido Moriyama](https://en.wikipedia.org/wiki/Daid%C5%8D_Moriyama), saya juga banyak meniru gaya fotografi beliau. 
 
 Semenjak belajar *street photography*, saya tidak ada alasan lagi untuk tidak memotret serius ketika sedang tidak memiliki DSLR. Semenjak itu pula saya sulit untuk menjawab pertanyaan kapan saya harus berhenti memotret.
+
+{% include video.html url="https://www.youtube.com/watch?v=PHYidejT3KY&t=78sI" width="560" height="315" %}
