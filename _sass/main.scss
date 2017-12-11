@@ -70,7 +70,7 @@ blockquote {
     box-sizing: border-box;
     &:hover,
     &:focus {
-      background: #f14e32;
+      background: #666;
     }
     &:hover + .logo-prompt,
     &:focus + .logo-prompt {
@@ -252,8 +252,9 @@ article {
     }
   }
   a:hover {
-    color: #369;
-    border-color: #369;
+    color: #fff;
+    border-color: #666;
+    background-color: #666;
   }
 }
 .back {
