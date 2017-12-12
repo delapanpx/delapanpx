@@ -1,7 +1,7 @@
 ---
 title: Ketika Banjir Dijadikan Alat Politik
 updated: 2017-12-12
-excerpt: "Orang-orang kita itu engga begitu peduli sama masalah banjir, mereka hanya peduli pada pemberitaan yang negatif."
+excerpt: "Orang-orang itu hanya peduli pada pemberitaan yang negatif."
 image: /assets/posts/2017-12-12-ketika-banjir-dijadikan-alat-politik/banjir.jpg
 ---
 
