@@ -140,4 +140,5 @@ Store images on `/assets/posts/YYYY-MM-DD-Title` folder just like post.
 - [Including And Managing Images in Jekyll](https://eduardoboucas.com/blog/2014/12/07/including-and-managing-images-in-jekyll.html)
 - [Dynamic navigation for Jekyll](https://codegaze.github.io/2015/08/08/how-to-create-a-dynamic-navigation-menu-in-jekyll/)
 - [Creating responsive Video Embeds in Jekyll](https://eduardoboucas.com/blog/2016/12/21/responsive-video-embeds-jekyll.html)
+- [Using Jekyl 2017 - Mademistakes](https://mademistakes.com/articles/using-jekyll-2017/)
 
