@@ -25,13 +25,14 @@ Saya mengubah lebar pada layout post yang tadinya 500px menjadi 600px, sama sepe
 Karena pada template ini saya tidak bisa menambahkan caption gambar, maka saya melakukan sedikit pengaturan, saya menggunakan tag include dan menyiapkan baris kode yang memudahkan saya memuat caption gambar, untuk lebih jelasnya bisa [membaca artikel managing images in jekyll](https://eduardoboucas.com/blog/2014/12/07/including-and-managing-images-in-jekyll.html "Including And Managing Images in Jekyll"). Dan juga karena pada template ini tidak ada pengaturan menampilkan menu navigasi, maka saya sedikit menambahkan pengaturan seperti yang dijelaskan pada [artikel tentang dynamic navigation](https://codegaze.github.io/2015/08/08/how-to-create-a-dynamic-navigation-menu-in-jekyll/ "Dynamic navigation for Jekyll"). Untuk mengatasi embed video dari streaming seperti youtube dan vimeo supaya hasilnya responsif, maka saya mengikuti sesuai yang ada di [artikel video embeds in jekyll](https://eduardoboucas.com/blog/2016/12/21/responsive-video-embeds-jekyll.html "Creating responsive Video Embeds in Jekyll").  
 
 ### Credit
+- [Jekyll Documentation](https://jekyllrb.com/docs/home/)
 - [Easily install Jekyll on Windows with 3 command prompt entries and Chocolatey](https://davidburela.wordpress.com/2015/11/28/easily-install-jekyll-on-windows-with-3-command-prompt-entries-and-chocolatey/)
 - [How to make your Jekyll site show up on social](http://aramzs.github.io/jekyll/social-media/2015/11/11/be-social-with-jekyll.html)
 - [Including And Managing Images in Jekyll](https://eduardoboucas.com/blog/2014/12/07/including-and-managing-images-in-jekyll.html)
 - [Dynamic navigation for Jekyll](https://codegaze.github.io/2015/08/08/how-to-create-a-dynamic-navigation-menu-in-jekyll/)
 - [Creating responsive Video Embeds in Jekyll](https://eduardoboucas.com/blog/2016/12/21/responsive-video-embeds-jekyll.html)
 - [Using Jekyl 2017 - Mademistakes](https://mademistakes.com/articles/using-jekyll-2017/)
-- Sumber belajar jekyll yang berguna dari [Mademistakes](https://mademistakes.com/articles/)
+- [Mademistakes: sumber belajar jekyll yang berguna](https://mademistakes.com/articles/)
 
 
 

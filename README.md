@@ -1,4 +1,4 @@
-# Theme Documentary
+# Theme Documentation
 
 **NOTE:** This markdown cheatsheet is a typography demo for this theme. Check out this post to learn more about this markdown usage when you want to get started with this theme. Enjoy!
 
@@ -134,7 +134,8 @@ Store images on `/assets/posts/YYYY-MM-DD-Title` folder just like post.
 ```
 
 ## Credit
-- Theme [The Plain v3.0](https://github.com/heiswayi/the-plain)
+- [Theme: The Plain v3.0](https://github.com/heiswayi/the-plain)
+- [Jekyll Documentation](https://jekyllrb.com/docs/home/)
 - [Easily install Jekyll on Windows with 3 command prompt entries and Chocolatey](https://davidburela.wordpress.com/2015/11/28/easily-install-jekyll-on-windows-with-3-command-prompt-entries-and-chocolatey/)
 - [How to make your Jekyll site show up on social](http://aramzs.github.io/jekyll/social-media/2015/11/11/be-social-with-jekyll.html)
 - [Including And Managing Images in Jekyll](https://eduardoboucas.com/blog/2014/12/07/including-and-managing-images-in-jekyll.html)
