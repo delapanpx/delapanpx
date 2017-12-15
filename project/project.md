@@ -13,7 +13,7 @@ permalink: /project
             <span>Apr, 2017</span>
         </div>
         <div class="title">
-            <a href="https://delapanpx.tumblr.com/post/168522645740/24-hours-project-2017-april-1-this-is-some">24 Hours Project 2017</a>
+            <a href="https://delapanpx.tumblr.com/tagged/24hoursproject2017">24 Hours Project 2017</a>
         </div>
     </li>
     <li>
