@@ -29,11 +29,9 @@ sass:
 
 # Other Params
 include:            [ "robots.txt", "_pages" ]
-exclude:            [ "LICENSE", "README.md", "CNAME", "vendor", "Gemfile" ]
+exclude:            [ "LICENSE", "README.md", "CNAME", "vendor", "Gemfile", "Gemfile.lock" ]
 plugins:
   - jekyll-sitemap
-
-
 
 defaults:
   -
