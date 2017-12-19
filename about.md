@@ -15,7 +15,7 @@ Kegiatan saya saat ini selain *freelance*, tentunya adalah kepala rumah tangga. 
 Website ini khusus saya buat untuk melampiaskan hasrat menulis opini saya mengenai apapun untuk saya bagikan kepada orang-orang. Saya membahas mulai dari sosial, teknologi, dan hiburan.
 
 ### Social
-- [Email](mailto:delapanpiksel@gmail.com) <-- Kali aja mau ngasi kerjaan :)
+- [Email](mailto:delapanpiksel@gmail.com) <-- Kali aja ada yang mau ngasi kerjaan :)
 - [Twitter](https://twitter.com/delapanpx)
 - [Facebook](https://facebook.com/delapanpiksel)
 - [Instagram](https://instagram.com/delapanpx)
