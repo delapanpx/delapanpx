@@ -13,7 +13,7 @@ twitter_username:   delapanpx # Your Twitter username here
 github_username:    delapanpx # Your GitHub username here
 
 # Site Settings
-url:                https://delapanpx.com/ # main url
+url:                https://delapanpx.com # main url
 baseurl:            # for gh-pages
 permalink:          /:title # Post permalink
 timezone:           Asia/Jakarta # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
