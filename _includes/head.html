@@ -57,7 +57,7 @@
 	<meta property="og:type" content="website" />
 	<meta name="twitter:card" content="summary_large_image" />
 	<meta name="twitter:title" content="{{site.title}}" />
-	<meta name="twitter:image" content="/assets/cucian.jpg" />
+	<meta name="twitter:image" content="{{ "/assets/cucian.jpg" | prepend: site.baseurl | prepend: site.url }}" />
 
 {% endif %}
 
