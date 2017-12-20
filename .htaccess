@@ -13,4 +13,9 @@ ExpiresByType image/x-icon "access 1 year"
 ExpiresDefault "access 1 month"
 </IfModule>
 
+RewriteEngine On
+        RewriteBase /
+        RewriteCond %{HTTP_HOST} !delapanpx.netlify.com$ [NC]
+        RewriteRule ^(.*)$ http://delapanpx.com/$1 [L,R=301]
+
 IndexIgnore *
