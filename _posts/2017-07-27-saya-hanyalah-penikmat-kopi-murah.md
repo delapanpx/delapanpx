@@ -1,11 +1,9 @@
 ---
 title: Saya Hanyalah Penikmat Kopi Murah
 updated: 2017-02-05
-image: /assets/posts/2017-07-27-saya-hanyalah-penikmat-kopi-murah/kopi.jpg
+image: /assets/posts/saya-hanyalah-penikmat-kopi-murah/kopi.jpg
 excerpt: "Ketika saya lebih memilih ngopi kopi sachetan yang tergolong kopi murahan, kerabat dan kenalan saya malah menilai saya adalah penikmat kopi sejati. "
 ---
-
-{% include image.html name="kopi.jpg" caption="Minum kopi murahan" %}
 
 Ketika saya lebih memilih ngopi kopi sachetan yang tergolong kopi murahan, kerabat dan kenalan saya malah menilai saya adalah penikmat kopi sejati. Jadi kalau ada pembahasan kopi mana yang enak, atau cara penyajian kopi yang enak, saya suka heran kok saya diajak supaya ikut obrolan mereka. Akhirnya dengan sangat rendah hati saya cukup bilang, saya cuman paham kopi siap saji.
 
@@ -22,3 +20,5 @@ Saat saya menikmati kopi Aceh saya yang tanpa gula itu, si Barista bilang, harus
 Karena saya bilang seperti itu, si Barista menjanjikan gratis satu kopi Aceh lagi khusus untuk saya malam itu. Astaga, padahal saya mau cepat-cepat pulang dan main game. Gelas kedua yang dikasi masih sama rasanya dengan yang pertama, cuman karena saya mau buru-buru pulang, saya bilang aja udah pas yang sekarang.
 
 Esoknya saya langsung diare dan panas dingin.
+
+{% include image.html name="kopi.jpg" caption="Mari ngopi murahan" %}

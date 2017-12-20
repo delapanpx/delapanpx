@@ -2,10 +2,8 @@
 title: Ketika Banjir Dijadikan Alat Politik
 updated: 2017-12-12
 excerpt: "Orang-orang itu hanya peduli pada pemberitaan yang negatif."
-image: /assets/posts/2017-12-12-ketika-banjir-dijadikan-alat-politik/banjir.jpg
+image: /assets/posts/ketika-banjir-dijadikan-alat-politik/banjir.jpg
 ---
-
-{% include image.html name="banjir.jpg" caption="Banjir" %}
 
 > **Disclaimer**:    
 > Artikel ini saya buat bukan karena saya Ahokers, atau kaum Bumi Datar. Tapi karena keresahan saya yang menonton timeline Facebook atau Twitter saya yang isinya mencibir Anies Sandi. Bahkan di reddit, tempat nongkrong saya isinya kebanyakan berita Anies Sandi mulu.
@@ -27,4 +25,6 @@ Dari hasil cibir mencibir itu kemudian saya pahami, bahwa sebenarnya orang-orang
 Kebanyakan dari kita malah sibuk mencibir dan menyelamatkan rumahnya sendiri, bukan fokus pada masalah, kenapa banjir bisa terjadi. Kemudian yang ada kita malah menyalahkan pemimpin daerah. Bahkan pemimpin daerahpun saling menyalahkan. Jadi ya gitu terus, kita sibuk saling menyalahkan, bukan sibuk menanggulangi.
 
 Ya iyalah, banjir itu kan tanggungjawab pemimpin daerah. Jadi serahkan aja dong pada pempimpin daerah dan juga kepada orang-orang yang memilih mereka di pilkada kemaren. Begitu terus setiap ada pemimpin daerah baru, seolah-olah hal itu adalah tanggungjawab yang menang Pilkada dan para pendukungnya.
+
+{% include image.html name="banjir.jpg" caption="Banjir" %}
 
