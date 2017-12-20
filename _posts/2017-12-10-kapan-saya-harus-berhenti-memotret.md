@@ -12,7 +12,7 @@ Saya kemudian balik bertanya, apakah teman saya itu menyukai fotografi? Dia jawa
 
 Sayang banget, kata saya. 
 
-Saya suka banget memotret orang, beberapa tahun mendalami *street photography *membantu saya mencintai fotografi. SP juga membuat saya untuk tetap memotret, kapan saja. 
+Saya suka banget memotret orang, beberapa tahun mendalami *street photography* membantu saya mencintai fotografi. SP juga membuat saya untuk tetap memotret, kapan saja. 
 
 Saya menjelaskan pada teman saya itu alasan mengapa saya terus memotret adalah, karena saya menemukan cara memotret yang bisa saya lakukan kapanpun dan dimanapun. 
 
