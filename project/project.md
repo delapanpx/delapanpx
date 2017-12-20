@@ -2,7 +2,7 @@
 layout: page
 title: Project
 excerpt: "Proyek yang pernah saya kerjakan, dari fotografi, desain grafis, hingga website."
-permalink: /project
+permalink: /project/
 ---
 
 ## Photography
