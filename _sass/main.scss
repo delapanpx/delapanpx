@@ -3,7 +3,8 @@ body {
   line-height: 20px;
   font-weight: normal;
   font-style: normal;
-  font-family: consolas, monaco, courier, "courier new", fixed-width;
+  /* font-family: consolas, monaco, courier, "courier new", fixed-width; */
+  font-family: 'Arial', sans-serif;
   color: #333333;
   padding: 20px;
   margin: 0;
@@ -144,7 +145,8 @@ time {
 }
 code,
 pre {
-  font-family: Consolas, Courier, monospace;
+  /* font-family: Consolas, Courier, monospace; */
+  font-family: 'Arial', sans-serif;
 }
 code {
   color: #f14e32;
@@ -325,6 +327,7 @@ section {
         border: 0;
         color: #000;
         box-sizing: border-box;
+        font-weight: 700;
       }
       .post-date {
         float: right;

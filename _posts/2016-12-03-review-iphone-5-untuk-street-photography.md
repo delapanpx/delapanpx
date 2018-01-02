@@ -24,7 +24,7 @@ Shutter lag pada iPhone 5 kalau saya rasakan sendiri tergolong rendah, namun pad
 
 Autofokus iPhone 5 juga tergolong cepat, menurut saya. Namun apabila kondisi kurang cahaya seperti di dalam ruangan atau malam hari, kadang autofokusnya agak lambat, hal ini memang lumrah terjadi di hampir setiap *smartphone* atau kamera digital lainnya.
 
-Kalau ngobrolin fitur aplikasi kamera bawaan, sebenarnya aplikasi bawaan iPhone 5, lebih tepatnya aplikasi kamera iOS (terakhir di iOS 10), aplikasi bawaan iPhone 5 ini sudah sangat bagus untuk dipakai memotret, apalagi memotret *street photography* yang membutuhkan kecepatan. Saya malahan sangat jarang memotret menggunakan aplikasi third party-nya. Biasanya aplikasi third party ini saya gunakan untuk mendapatkan foto yang tertentu, seperti *long exposure*.
+Kalau ngobrolin fitur aplikasi kamera bawaan, sebenarnya aplikasi bawaan iPhone 5, lebih tepatnya aplikasi kamera iOS (terakhir di iOS 10), aplikasi bawaan iPhone 5 ini sudah sangat bagus untuk dipakai memotret, apalagi memotret *street photogpraphy* yang membutuhkan kecepatan. Saya malahan sangat jarang memotret menggunakan aplikasi third party-nya. Biasanya aplikasi third party ini saya gunakan untuk mendapatkan foto yang tertentu, seperti *long exposure*.
 
 ### Pengalaman menggunakan iPhone 5
 
